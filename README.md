@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @DylanDog7
+- 👀 I’m interested in softwares coding, app programming
+- 🌱 I’m currently learning C++
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+
