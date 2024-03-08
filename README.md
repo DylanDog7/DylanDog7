@@ -1,6 +1,8 @@
-- 👋 Hi, I’m @DylanDog7
-- 👀 I’m interested in softwares coding, app programming
-- 🌱 I’m currently learning C++
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Dylan Dog 7
 
+1 year of experience in C++
+3 years of experience in Python
+
+Interested in Artificial Intelligence developing
+
+Some knowledge about CNNs and GANs
